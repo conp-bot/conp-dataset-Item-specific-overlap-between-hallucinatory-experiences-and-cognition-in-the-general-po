@@ -1,0 +1,81 @@
+{
+    "title": "Item-specific overlap between hallucinatory experiences and cognition in the general population:  A three-step multivariate analysis of international multi-site data",
+    "creators": [
+        {
+            "name": "Abhijit Mahesh Chinchani"
+        }
+    ],
+    "description": "This repository contains all the data and code necessary to reproduce all the results in the paper -\"Item-specific overlap between hallucinatory experiences and cognition in the general population:  A three-step multivariate analysis of international multi-site data\"",
+    "version": "2022-02-11T20:43:55.172479",
+    "licenses": [
+        {
+            "name": "Other"
+        }
+    ],
+    "dates": [
+        {
+            "date": "2021-02-01 03:28:05",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2022-02-11 20:43:55",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 3.8,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/aeg5d/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "University of British Columbia"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "89"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
